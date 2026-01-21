@@ -1,9 +1,8 @@
 # Investalo Academy Quiz - Level 1
 
-Hier ist eine Vorschau des aktuellen Quiz-Interfaces:
-
-![Quiz Vorschau](images/preview.png)
-# <img src="assets/ohnehintergrund_quiz.png" width="100" align="right"> Investalo Academy Quiz 🎓
+<p align="center">
+  <img src="preview.png" alt="Screenshot" width="80%">
+</p>
 
 An interactive 3-level quiz for aspiring traders, developed for the Investalo Academy. This plugin combines profound market knowledge with a modern user interface and AI-powered analysis.
 

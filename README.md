@@ -1,23 +1,24 @@
-# <img src="assets/ohnehintergrund_quiz.png" width="100" align="right"> Investalo Akademie Quiz 🎓
+# <img src="assets/ohnehintergrund_quiz.png" width="100" align="right"> Investalo Academy Quiz 🎓
 
-Ein interaktives 3-Level-Quiz für angehende Trader, entwickelt für die Investalo Akademie. Dieses Plugin kombiniert fundiertes Marktwissen mit einer modernen Benutzeroberfläche und einer KI-gestützten Analyse.
+An interactive 3-level quiz for aspiring traders, developed for the Investalo Academy. This plugin combines profound market knowledge with a modern user interface and AI-powered analysis.
 
 ## 🚀 Features
-- **3-Level System:** Steigender Schwierigkeitsgrad von den Basics bis zum Profi-Mindset.
-- **Kategorien-Analyse:** Echtzeit-Tracking der Performance in den Bereichen *Basics*, *Market* und *Mindset*.
-- **KI-Mentor Integration:** Dynamisches, personalisiertes Feedback am Ende des Quiz via OpenAI API (GPT-4o-mini).
-- **Modern UI:** Clean Fintech-Design, voll responsiv und mit flüssigen Animationen.
+- **3-Level System:** Increasing difficulty levels from the basics to a professional mindset.
+- **Category Analysis:** Real-time performance tracking in the areas of *Basics*, *Market*, and *Mindset*.
+- **AI-Mentor Integration:** Dynamic, personalized feedback at the end of the quiz via OpenAI API (GPT-4o-mini).
+- **Modern UI:** Clean Fintech design, fully responsive with fluid animations.
 
 ## 🛠️ Tech Stack
-- **PHP:** WordPress Plugin Architektur & AJAX-Schnittstellen.
-- **JavaScript (ES6):** Quiz-Logik, Session-Tracking & API-Anbindung.
-- **CSS3:** Custom Styling mit CSS-Variablen & Responsive Design.
+- **PHP:** WordPress plugin architecture & AJAX interfaces.
+- **JavaScript (ES6):** Quiz logic, session tracking, and API integration.
+- **CSS3:** Custom styling with CSS variables & responsive design.
 
-## 📦 Installation & Nutzung
-1. Lade dieses Repository als `.zip` herunter oder clone es.
-2. Installiere das Plugin in deinem WordPress-Dashboard unter **Plugins > Installieren**.
-3. Hinterlege deinen **OpenAI API Key** in den Plugin-Einstellungen unter *Einstellungen > Investalo Quiz*.
-4. Platziere den Shortcode `[investalo_quiz]` auf einer beliebigen Seite oder in einem Beitrag.
+## 📦 Installation & Usage
+1. Download this repository as a `.zip` or clone it.
+2. Install the plugin in your WordPress dashboard under **Plugins > Add New**.
+3. Add your **OpenAI API Key** in the plugin settings under *Settings > Investalo Quiz*.
+4. Place the shortcode `[investalo_quiz]` on any page or post.
 
 ---
+*Developed for the Investalo Academy – Learning precision in trading.*
 *Entwickelt für die Investalo Akademie – Präzision im Handel lernen.*
